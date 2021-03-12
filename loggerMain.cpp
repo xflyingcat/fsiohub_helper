@@ -86,6 +86,38 @@ const long loggerDialog::ID_TEXTCTRL2 = wxNewId();
 const long loggerDialog::ID_STATICTEXT12 = wxNewId();
 const long loggerDialog::ID_TEXTCTRL7 = wxNewId();
 const long loggerDialog::ID_STATICLINE5 = wxNewId();
+const long loggerDialog::ID_STATICTEXT33 = wxNewId();
+const long loggerDialog::ID_BUTTON7 = wxNewId();
+const long loggerDialog::ID_STATICLINE20 = wxNewId();
+const long loggerDialog::ID_RADIOBOX2 = wxNewId();
+const long loggerDialog::ID_BUTTON10 = wxNewId();
+const long loggerDialog::ID_STATICLINE21 = wxNewId();
+const long loggerDialog::ID_STATICTEXT37 = wxNewId();
+const long loggerDialog::ID_BUTTON13 = wxNewId();
+const long loggerDialog::ID_STATICTEXT35 = wxNewId();
+const long loggerDialog::ID_TEXTCTRL26 = wxNewId();
+const long loggerDialog::ID_BUTTON11 = wxNewId();
+const long loggerDialog::ID_STATICLINE22 = wxNewId();
+const long loggerDialog::ID_RADIOBOX3 = wxNewId();
+const long loggerDialog::ID_BUTTON12 = wxNewId();
+const long loggerDialog::ID_STATICLINE23 = wxNewId();
+const long loggerDialog::ID_STATICTEXT39 = wxNewId();
+const long loggerDialog::ID_TEXTCTRL29 = wxNewId();
+const long loggerDialog::ID_STATICTEXT43 = wxNewId();
+const long loggerDialog::ID_TEXTCTRL30 = wxNewId();
+const long loggerDialog::ID_BUTTON36 = wxNewId();
+const long loggerDialog::ID_STATICLINE24 = wxNewId();
+const long loggerDialog::ID_STATICTEXT42 = wxNewId();
+const long loggerDialog::ID_BUTTON14 = wxNewId();
+const long loggerDialog::ID_STATICTEXT38 = wxNewId();
+const long loggerDialog::ID_TEXTCTRL28 = wxNewId();
+const long loggerDialog::ID_BUTTON34 = wxNewId();
+const long loggerDialog::ID_STATICTEXT40 = wxNewId();
+const long loggerDialog::ID_COMBOBOX5 = wxNewId();
+const long loggerDialog::ID_STATICTEXT41 = wxNewId();
+const long loggerDialog::ID_COMBOBOX6 = wxNewId();
+const long loggerDialog::ID_BUTTON35 = wxNewId();
+const long loggerDialog::ID_PANEL3 = wxNewId();
 const long loggerDialog::ID_STATICTEXT15 = wxNewId();
 const long loggerDialog::ID_TEXTCTRL25 = wxNewId();
 const long loggerDialog::ID_STATICTEXT68 = wxNewId();
@@ -287,68 +319,6 @@ const long loggerDialog::ID_BUTTON33 = wxNewId();
 const long loggerDialog::ID_STATICTEXT69 = wxNewId();
 const long loggerDialog::ID_COMBOBOX3 = wxNewId();
 const long loggerDialog::ID_PANEL2 = wxNewId();
-const long loggerDialog::ID_GRID1 = wxNewId();
-const long loggerDialog::ID_BUTTON7 = wxNewId();
-const long loggerDialog::ID_PANEL4 = wxNewId();
-const long loggerDialog::ID_GRID2 = wxNewId();
-const long loggerDialog::ID_BUTTON11 = wxNewId();
-const long loggerDialog::ID_PANEL5 = wxNewId();
-const long loggerDialog::ID_STATICTEXT35 = wxNewId();
-const long loggerDialog::ID_TEXTCTRL30 = wxNewId();
-const long loggerDialog::ID_STATICTEXT33 = wxNewId();
-const long loggerDialog::ID_TEXTCTRL26 = wxNewId();
-const long loggerDialog::ID_STATICTEXT36 = wxNewId();
-const long loggerDialog::ID_TEXTCTRL27 = wxNewId();
-const long loggerDialog::ID_STATICTEXT37 = wxNewId();
-const long loggerDialog::ID_TEXTCTRL28 = wxNewId();
-const long loggerDialog::ID_STATICTEXT38 = wxNewId();
-const long loggerDialog::ID_TEXTCTRL29 = wxNewId();
-const long loggerDialog::ID_STATICTEXT39 = wxNewId();
-const long loggerDialog::ID_TEXTCTRL31 = wxNewId();
-const long loggerDialog::ID_STATICTEXT40 = wxNewId();
-const long loggerDialog::ID_TEXTCTRL32 = wxNewId();
-const long loggerDialog::ID_STATICTEXT41 = wxNewId();
-const long loggerDialog::ID_TEXTCTRL33 = wxNewId();
-const long loggerDialog::ID_STATICTEXT42 = wxNewId();
-const long loggerDialog::ID_TEXTCTRL34 = wxNewId();
-const long loggerDialog::ID_STATICTEXT43 = wxNewId();
-const long loggerDialog::ID_TEXTCTRL35 = wxNewId();
-const long loggerDialog::ID_STATICTEXT44 = wxNewId();
-const long loggerDialog::ID_TEXTCTRL36 = wxNewId();
-const long loggerDialog::ID_STATICTEXT45 = wxNewId();
-const long loggerDialog::ID_TEXTCTRL37 = wxNewId();
-const long loggerDialog::ID_STATICTEXT46 = wxNewId();
-const long loggerDialog::ID_TEXTCTRL38 = wxNewId();
-const long loggerDialog::ID_STATICTEXT47 = wxNewId();
-const long loggerDialog::ID_TEXTCTRL39 = wxNewId();
-const long loggerDialog::ID_STATICTEXT48 = wxNewId();
-const long loggerDialog::ID_TEXTCTRL40 = wxNewId();
-const long loggerDialog::ID_STATICTEXT49 = wxNewId();
-const long loggerDialog::ID_TEXTCTRL41 = wxNewId();
-const long loggerDialog::ID_CHOICE6 = wxNewId();
-const long loggerDialog::ID_STATICTEXT52 = wxNewId();
-const long loggerDialog::ID_CHOICE5 = wxNewId();
-const long loggerDialog::ID_STATICTEXT50 = wxNewId();
-const long loggerDialog::ID_STATICTEXT53 = wxNewId();
-const long loggerDialog::ID_TEXTCTRL42 = wxNewId();
-const long loggerDialog::ID_STATICTEXT54 = wxNewId();
-const long loggerDialog::ID_TEXTCTRL43 = wxNewId();
-const long loggerDialog::ID_STATICTEXT59 = wxNewId();
-const long loggerDialog::ID_TEXTCTRL48 = wxNewId();
-const long loggerDialog::ID_BUTTON12 = wxNewId();
-const long loggerDialog::ID_TEXTCTRL44 = wxNewId();
-const long loggerDialog::ID_STATICTEXT65 = wxNewId();
-const long loggerDialog::ID_TEXTCTRL54 = wxNewId();
-const long loggerDialog::ID_BUTTON13 = wxNewId();
-const long loggerDialog::ID_TEXTCTRL52 = wxNewId();
-const long loggerDialog::ID_STATICTEXT66 = wxNewId();
-const long loggerDialog::ID_TEXTCTRL55 = wxNewId();
-const long loggerDialog::ID_BUTTON14 = wxNewId();
-const long loggerDialog::ID_TEXTCTRL53 = wxNewId();
-const long loggerDialog::ID_STATICTEXT67 = wxNewId();
-const long loggerDialog::ID_CHECKBOX3 = wxNewId();
-const long loggerDialog::ID_BUTTON10 = wxNewId();
-const long loggerDialog::ID_PANEL3 = wxNewId();
 const long loggerDialog::ID_NOTEBOOK1 = wxNewId();
 const long loggerDialog::ID_STATICLINE1 = wxNewId();
 const long loggerDialog::ID_STATICTEXT1 = wxNewId();
@@ -470,23 +440,10 @@ loggerDialog::loggerDialog(wxWindow* parent,wxWindowID id)
     wxFlexGridSizer* FlexGridSizer36;
     wxFlexGridSizer* FlexGridSizer37;
     wxFlexGridSizer* FlexGridSizer38;
-    wxFlexGridSizer* FlexGridSizer39;
     wxFlexGridSizer* FlexGridSizer3;
-    wxFlexGridSizer* FlexGridSizer40;
-    wxFlexGridSizer* FlexGridSizer41;
-    wxFlexGridSizer* FlexGridSizer42;
-    wxFlexGridSizer* FlexGridSizer43;
-    wxFlexGridSizer* FlexGridSizer44;
-    wxFlexGridSizer* FlexGridSizer45;
-    wxFlexGridSizer* FlexGridSizer46;
-    wxFlexGridSizer* FlexGridSizer47;
     wxFlexGridSizer* FlexGridSizer48;
-    wxFlexGridSizer* FlexGridSizer49;
     wxFlexGridSizer* FlexGridSizer4;
-    wxFlexGridSizer* FlexGridSizer50;
     wxFlexGridSizer* FlexGridSizer51;
-    wxFlexGridSizer* FlexGridSizer52;
-    wxFlexGridSizer* FlexGridSizer53;
     wxFlexGridSizer* FlexGridSizer54;
     wxFlexGridSizer* FlexGridSizer55;
     wxFlexGridSizer* FlexGridSizer56;
@@ -525,11 +482,6 @@ loggerDialog::loggerDialog(wxWindow* parent,wxWindowID id)
     wxFlexGridSizer* FlexGridSizer86;
     wxFlexGridSizer* FlexGridSizer8;
     wxFlexGridSizer* FlexGridSizer9;
-    wxGridSizer* GridSizer1;
-    wxGridSizer* GridSizer2;
-    wxGridSizer* GridSizer3;
-    wxGridSizer* GridSizer4;
-    wxGridSizer* GridSizer5;
     wxGridSizer* GridSizer6;
     wxGridSizer* GridSizer7;
     wxGridSizer* GridSizer8;
@@ -540,9 +492,9 @@ loggerDialog::loggerDialog(wxWindow* parent,wxWindowID id)
     FlexGridSizer25 = new wxFlexGridSizer(5, 1, 0, 0);
     StaticText6 = new wxStaticText(this, ID_STATICTEXT6, _("Remarks"), wxDefaultPosition, wxDefaultSize, 0, _T("ID_STATICTEXT6"));
     FlexGridSizer25->Add(StaticText6, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 0);
-    TextCtrl2 = new wxTextCtrl(this, ID_TEXTCTRL2, _("Some comment (remove all to omit comments)"), wxDefaultPosition, wxSize(284,64), wxTE_AUTO_SCROLL|wxTE_MULTILINE, wxDefaultValidator, _T("ID_TEXTCTRL2"));
+    TextCtrl2 = new wxTextCtrl(this, ID_TEXTCTRL2, wxEmptyString, wxDefaultPosition, wxSize(284,64), wxTE_AUTO_SCROLL|wxTE_MULTILINE, wxDefaultValidator, _T("ID_TEXTCTRL2"));
     FlexGridSizer25->Add(TextCtrl2, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    StaticText12 = new wxStaticText(this, ID_STATICTEXT12, _("Result section for ini file"), wxDefaultPosition, wxDefaultSize, 0, _T("ID_STATICTEXT12"));
+    StaticText12 = new wxStaticText(this, ID_STATICTEXT12, _("Result sections for ini file"), wxDefaultPosition, wxDefaultSize, 0, _T("ID_STATICTEXT12"));
     FlexGridSizer25->Add(StaticText12, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 0);
     TextCtrl7 = new wxTextCtrl(this, ID_TEXTCTRL7, wxEmptyString, wxDefaultPosition, wxSize(282,407), wxTE_AUTO_SCROLL|wxTE_MULTILINE, wxDefaultValidator, _T("ID_TEXTCTRL7"));
     FlexGridSizer25->Add(TextCtrl7, 1, wxALL|wxEXPAND, 5);
@@ -551,6 +503,128 @@ loggerDialog::loggerDialog(wxWindow* parent,wxWindowID id)
     FlexGridSizer2->Add(FlexGridSizer25, 1, wxALL|wxEXPAND, 0);
     FlexGridSizer3 = new wxFlexGridSizer(22, 1, 0, 0);
     Notebook1 = new wxNotebook(this, ID_NOTEBOOK1, wxDefaultPosition, wxDefaultSize, 0, _T("ID_NOTEBOOK1"));
+    Panel3 = new wxPanel(Notebook1, ID_PANEL3, wxDefaultPosition, wxDefaultSize, wxTAB_TRAVERSAL, _T("ID_PANEL3"));
+    FlexGridSizer6 = new wxFlexGridSizer(0, 1, 0, 0);
+    FlexGridSizer28 = new wxFlexGridSizer(0, 3, 0, 0);
+    StaticText33 = new wxStaticText(Panel3, ID_STATICTEXT33, _("1. Just fill Remarks then press this button ->"), wxDefaultPosition, wxDefaultSize, 0, _T("ID_STATICTEXT33"));
+    FlexGridSizer28->Add(StaticText33, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
+    Button7 = new wxButton(Panel3, ID_BUTTON7, _("Add Header"), wxDefaultPosition, wxDefaultSize, 0, wxDefaultValidator, _T("ID_BUTTON7"));
+    FlexGridSizer28->Add(Button7, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
+    FlexGridSizer6->Add(FlexGridSizer28, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 0);
+    StaticLine20 = new wxStaticLine(Panel3, ID_STATICLINE20, wxDefaultPosition, wxSize(10,-1), wxLI_HORIZONTAL, _T("ID_STATICLINE20"));
+    FlexGridSizer6->Add(StaticLine20, 1, wxALL|wxEXPAND, 5);
+    FlexGridSizer29 = new wxFlexGridSizer(0, 3, 0, 0);
+    wxString __wxRadioBoxChoices_1[2] =
+    {
+    	_("On"),
+    	_("Off")
+    };
+    RadioBox2 = new wxRadioBox(Panel3, ID_RADIOBOX2, _("log"), wxDefaultPosition, wxDefaultSize, 2, __wxRadioBoxChoices_1, 1, 0, wxDefaultValidator, _T("ID_RADIOBOX2"));
+    RadioBox2->SetSelection(0);
+    FlexGridSizer29->Add(RadioBox2, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 0);
+    Button10 = new wxButton(Panel3, ID_BUTTON10, _("Add [mode] section"), wxDefaultPosition, wxDefaultSize, 0, wxDefaultValidator, _T("ID_BUTTON10"));
+    FlexGridSizer29->Add(Button10, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
+    FlexGridSizer29->Add(161,20,1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
+    FlexGridSizer6->Add(FlexGridSizer29, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 5);
+    StaticLine21 = new wxStaticLine(Panel3, ID_STATICLINE21, wxDefaultPosition, wxSize(10,-1), wxLI_HORIZONTAL, _T("ID_STATICLINE21"));
+    FlexGridSizer6->Add(StaticLine21, 1, wxALL|wxEXPAND, 5);
+    StaticText37 = new wxStaticText(Panel3, ID_STATICTEXT37, _("Use this configuration options if you do not belive the automatic device detection"), wxDefaultPosition, wxDefaultSize, 0, _T("ID_STATICTEXT37"));
+    FlexGridSizer6->Add(StaticText37, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
+    FlexGridSizer31 = new wxFlexGridSizer(0, 3, 0, 0);
+    Button13 = new wxButton(Panel3, ID_BUTTON13, _("Add [serial] section"), wxDefaultPosition, wxDefaultSize, 0, wxDefaultValidator, _T("ID_BUTTON13"));
+    FlexGridSizer31->Add(Button13, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
+    FlexGridSizer6->Add(FlexGridSizer31, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 0);
+    FlexGridSizer30 = new wxFlexGridSizer(1, 0, 0, 0);
+    StaticText35 = new wxStaticText(Panel3, ID_STATICTEXT35, _("Device logic port (0...7)"), wxDefaultPosition, wxDefaultSize, 0, _T("ID_STATICTEXT35"));
+    FlexGridSizer30->Add(StaticText35, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
+    TextCtrl26 = new wxTextCtrl(Panel3, ID_TEXTCTRL26, _("0"), wxDefaultPosition, wxSize(55,21), 0, wxDefaultValidator, _T("ID_TEXTCTRL26"));
+    FlexGridSizer30->Add(TextCtrl26, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
+    FlexGridSizer30->Add(-1,-1,1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
+    Button11 = new wxButton(Panel3, ID_BUTTON11, _("Add serial"), wxDefaultPosition, wxDefaultSize, 0, wxDefaultValidator, _T("ID_BUTTON11"));
+    FlexGridSizer30->Add(Button11, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
+    FlexGridSizer6->Add(FlexGridSizer30, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 0);
+    StaticLine22 = new wxStaticLine(Panel3, ID_STATICLINE22, wxDefaultPosition, wxSize(10,-1), wxLI_HORIZONTAL, _T("ID_STATICLINE22"));
+    FlexGridSizer6->Add(StaticLine22, 1, wxALL|wxEXPAND, 5);
+    FlexGridSizer32 = new wxFlexGridSizer(0, 3, 0, 0);
+    wxString __wxRadioBoxChoices_2[2] =
+    {
+    	_("On"),
+    	_("Off")
+    };
+    RadioBox3 = new wxRadioBox(Panel3, ID_RADIOBOX3, _("keyinfo"), wxDefaultPosition, wxDefaultSize, 2, __wxRadioBoxChoices_2, 1, 0, wxDefaultValidator, _T("ID_RADIOBOX3"));
+    FlexGridSizer32->Add(RadioBox3, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
+    Button12 = new wxButton(Panel3, ID_BUTTON12, _("Add [debug] section"), wxDefaultPosition, wxDefaultSize, 0, wxDefaultValidator, _T("ID_BUTTON12"));
+    FlexGridSizer32->Add(Button12, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
+    FlexGridSizer6->Add(FlexGridSizer32, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 0);
+    StaticLine23 = new wxStaticLine(Panel3, ID_STATICLINE23, wxDefaultPosition, wxSize(10,-1), wxLI_HORIZONTAL, _T("ID_STATICLINE23"));
+    FlexGridSizer6->Add(StaticLine23, 1, wxALL|wxEXPAND, 5);
+    FlexGridSizer38 = new wxFlexGridSizer(1, 0, 0, 0);
+    StaticText39 = new wxStaticText(Panel3, ID_STATICTEXT39, _("Device logic port"), wxDefaultPosition, wxDefaultSize, 0, _T("ID_STATICTEXT39"));
+    FlexGridSizer38->Add(StaticText39, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
+    TextCtrl29 = new wxTextCtrl(Panel3, ID_TEXTCTRL29, _("0"), wxDefaultPosition, wxSize(55,21), 0, wxDefaultValidator, _T("ID_TEXTCTRL29"));
+    FlexGridSizer38->Add(TextCtrl29, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
+    FlexGridSizer38->Add(-1,-1,1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
+    StaticText43 = new wxStaticText(Panel3, ID_STATICTEXT43, _("Key"), wxDefaultPosition, wxDefaultSize, 0, _T("ID_STATICTEXT43"));
+    FlexGridSizer38->Add(StaticText43, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
+    TextCtrl30 = new wxTextCtrl(Panel3, ID_TEXTCTRL30, _("0"), wxDefaultPosition, wxSize(63,21), 0, wxDefaultValidator, _T("ID_TEXTCTRL30"));
+    FlexGridSizer38->Add(TextCtrl30, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
+    Button36 = new wxButton(Panel3, ID_BUTTON36, _("Add config reload key"), wxDefaultPosition, wxDefaultSize, 0, wxDefaultValidator, _T("ID_BUTTON36"));
+    FlexGridSizer38->Add(Button36, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
+    FlexGridSizer6->Add(FlexGridSizer38, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 0);
+    StaticLine24 = new wxStaticLine(Panel3, ID_STATICLINE24, wxDefaultPosition, wxSize(10,-1), wxLI_HORIZONTAL, _T("ID_STATICLINE24"));
+    FlexGridSizer6->Add(StaticLine24, 1, wxALL|wxEXPAND, 5);
+    StaticText42 = new wxStaticText(Panel3, ID_STATICTEXT42, _("Use this sections as a header of controls and indications for \nthe current logic port (hardware unit)"), wxDefaultPosition, wxDefaultSize, 0, _T("ID_STATICTEXT42"));
+    FlexGridSizer6->Add(StaticText42, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
+    FlexGridSizer33 = new wxFlexGridSizer(0, 3, 0, 0);
+    Button14 = new wxButton(Panel3, ID_BUTTON14, _("Add [device] section"), wxDefaultPosition, wxDefaultSize, 0, wxDefaultValidator, _T("ID_BUTTON14"));
+    FlexGridSizer33->Add(Button14, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
+    FlexGridSizer6->Add(FlexGridSizer33, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 0);
+    FlexGridSizer34 = new wxFlexGridSizer(1, 0, 0, 0);
+    StaticText38 = new wxStaticText(Panel3, ID_STATICTEXT38, _("Device logic port"), wxDefaultPosition, wxDefaultSize, 0, _T("ID_STATICTEXT38"));
+    FlexGridSizer34->Add(StaticText38, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
+    TextCtrl28 = new wxTextCtrl(Panel3, ID_TEXTCTRL28, _("0"), wxDefaultPosition, wxSize(55,21), 0, wxDefaultValidator, _T("ID_TEXTCTRL28"));
+    FlexGridSizer34->Add(TextCtrl28, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
+    Button34 = new wxButton(Panel3, ID_BUTTON34, _("Add logic port line"), wxDefaultPosition, wxDefaultSize, 0, wxDefaultValidator, _T("ID_BUTTON34"));
+    FlexGridSizer34->Add(Button34, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
+    FlexGridSizer6->Add(FlexGridSizer34, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 0);
+    FlexGridSizer35 = new wxFlexGridSizer(1, 0, 0, 0);
+    FlexGridSizer36 = new wxFlexGridSizer(0, 3, 0, 0);
+    StaticText40 = new wxStaticText(Panel3, ID_STATICTEXT40, _("Num. output buffer"), wxDefaultPosition, wxDefaultSize, 0, _T("ID_STATICTEXT40"));
+    FlexGridSizer36->Add(StaticText40, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 0);
+    ComboBox5 = new wxComboBox(Panel3, ID_COMBOBOX5, wxEmptyString, wxDefaultPosition, wxSize(65,21), 0, 0, 0, wxDefaultValidator, _T("ID_COMBOBOX5"));
+    ComboBox5->SetSelection( ComboBox5->Append(_("128")) );
+    ComboBox5->Append(_("48"));
+    ComboBox5->Append(_("96"));
+    ComboBox5->Append(_("144"));
+    ComboBox5->Append(_("192"));
+    ComboBox5->Append(_("240"));
+    ComboBox5->Append(_("288"));
+    ComboBox5->Append(_("336"));
+    ComboBox5->Append(_("384"));
+    FlexGridSizer36->Add(ComboBox5, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
+    FlexGridSizer35->Add(FlexGridSizer36, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 0);
+    FlexGridSizer37 = new wxFlexGridSizer(1, 0, 0, 0);
+    FlexGridSizer37->Add(8,20,1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
+    StaticText41 = new wxStaticText(Panel3, ID_STATICTEXT41, _("Disc. output buffer"), wxDefaultPosition, wxDefaultSize, 0, _T("ID_STATICTEXT41"));
+    FlexGridSizer37->Add(StaticText41, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 0);
+    ComboBox6 = new wxComboBox(Panel3, ID_COMBOBOX6, wxEmptyString, wxDefaultPosition, wxSize(56,21), 0, 0, 0, wxDefaultValidator, _T("ID_COMBOBOX6"));
+    ComboBox6->SetSelection( ComboBox6->Append(_("64")) );
+    ComboBox6->Append(_("128"));
+    ComboBox6->Append(_("256"));
+    ComboBox6->Append(_("384"));
+    ComboBox6->Append(_("512"));
+    ComboBox6->Append(_("640"));
+    ComboBox6->Append(_("768"));
+    ComboBox6->Append(_("896"));
+    ComboBox6->Append(_("1024"));
+    FlexGridSizer37->Add(ComboBox6, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
+    Button35 = new wxButton(Panel3, ID_BUTTON35, _("Add buffer size"), wxDefaultPosition, wxDefaultSize, 0, wxDefaultValidator, _T("ID_BUTTON35"));
+    FlexGridSizer37->Add(Button35, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
+    FlexGridSizer35->Add(FlexGridSizer37, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 0);
+    FlexGridSizer6->Add(FlexGridSizer35, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 0);
+    Panel3->SetSizer(FlexGridSizer6);
+    FlexGridSizer6->Fit(Panel3);
+    FlexGridSizer6->SetSizeHints(Panel3);
     Panel1 = new wxPanel(Notebook1, ID_PANEL1, wxDefaultPosition, wxDefaultSize, wxTAB_TRAVERSAL, _T("ID_PANEL1"));
     FlexGridSizer27 = new wxFlexGridSizer(0, 1, 0, 0);
     FlexGridSizer51 = new wxFlexGridSizer(0, 10, 0, 0);
@@ -675,12 +749,12 @@ loggerDialog::loggerDialog(wxWindow* parent,wxWindowID id)
     StaticLine19 = new wxStaticLine(Panel1, ID_STATICLINE19, wxDefaultPosition, wxSize(10,-1), wxLI_HORIZONTAL, _T("ID_STATICLINE19"));
     FlexGridSizer27->Add(StaticLine19, 1, wxALL|wxEXPAND, 0);
     FlexGridSizer11 = new wxFlexGridSizer(1, 3, 0, 0);
-    wxString __wxRadioBoxChoices_1[2] =
+    wxString __wxRadioBoxChoices_3[2] =
     {
     	_("Loop  (e.g. HDG, CRS)"),
     	_("Limits (e.g. IAS, ALT) ")
     };
-    RadioBox1 = new wxRadioBox(Panel1, ID_RADIOBOX1, _("Cycling options"), wxDefaultPosition, wxDefaultSize, 2, __wxRadioBoxChoices_1, 1, 0, wxDefaultValidator, _T("ID_RADIOBOX1"));
+    RadioBox1 = new wxRadioBox(Panel1, ID_RADIOBOX1, _("Cycling options"), wxDefaultPosition, wxDefaultSize, 2, __wxRadioBoxChoices_3, 1, 0, wxDefaultValidator, _T("ID_RADIOBOX1"));
     RadioBox1->SetSelection(0);
     FlexGridSizer11->Add(RadioBox1, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 0);
     FlexGridSizer11->Add(57,20,1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
@@ -1239,7 +1313,8 @@ loggerDialog::loggerDialog(wxWindow* parent,wxWindowID id)
     StaticText115 = new wxStaticText(Panel2, ID_STATICTEXT115, _("Numeric output buffer"), wxDefaultPosition, wxDefaultSize, 0, _T("ID_STATICTEXT115"));
     FlexGridSizer86->Add(StaticText115, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 0);
     ComboBox4 = new wxComboBox(Panel2, ID_COMBOBOX4, wxEmptyString, wxDefaultPosition, wxSize(65,21), 0, 0, 0, wxDefaultValidator, _T("ID_COMBOBOX4"));
-    ComboBox4->SetSelection( ComboBox4->Append(_("48")) );
+    ComboBox4->SetSelection( ComboBox4->Append(_("128")) );
+    ComboBox4->Append(_("48"));
     ComboBox4->Append(_("96"));
     ComboBox4->Append(_("144"));
     ComboBox4->Append(_("192"));
@@ -1255,8 +1330,8 @@ loggerDialog::loggerDialog(wxWindow* parent,wxWindowID id)
     StaticText69 = new wxStaticText(Panel2, ID_STATICTEXT69, _("Discrete output buffer"), wxDefaultPosition, wxDefaultSize, 0, _T("ID_STATICTEXT69"));
     FlexGridSizer85->Add(StaticText69, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 0);
     ComboBox3 = new wxComboBox(Panel2, ID_COMBOBOX3, wxEmptyString, wxDefaultPosition, wxSize(56,21), 0, 0, 0, wxDefaultValidator, _T("ID_COMBOBOX3"));
-    ComboBox3->Append(_("64"));
-    ComboBox3->SetSelection( ComboBox3->Append(_("128")) );
+    ComboBox3->SetSelection( ComboBox3->Append(_("64")) );
+    ComboBox3->Append(_("128"));
     ComboBox3->Append(_("256"));
     ComboBox3->Append(_("384"));
     ComboBox3->Append(_("512"));
@@ -1270,284 +1345,10 @@ loggerDialog::loggerDialog(wxWindow* parent,wxWindowID id)
     Panel2->SetSizer(FlexGridSizer9);
     FlexGridSizer9->Fit(Panel2);
     FlexGridSizer9->SetSizeHints(Panel2);
-    Panel4 = new wxPanel(Notebook1, ID_PANEL4, wxDefaultPosition, wxDefaultSize, wxTAB_TRAVERSAL, _T("ID_PANEL4"));
-    FlexGridSizer49 = new wxFlexGridSizer(0, 3, 0, 0);
-    Grid1 = new wxGrid(Panel4, ID_GRID1, wxDefaultPosition, wxSize(268,408), 0, _T("ID_GRID1"));
-    Grid1->CreateGrid(16,8);
-    Grid1->EnableEditing(true);
-    Grid1->EnableGridLines(true);
-    Grid1->SetColLabelValue(0, _("0"));
-    Grid1->SetColLabelValue(1, _("1"));
-    Grid1->SetColLabelValue(2, _("2"));
-    Grid1->SetColLabelValue(3, _("3"));
-    Grid1->SetColLabelValue(4, _("4"));
-    Grid1->SetColLabelValue(5, _("5"));
-    Grid1->SetColLabelValue(6, _("6"));
-    Grid1->SetColLabelValue(7, _("7"));
-    Grid1->SetRowLabelValue(0, _("0"));
-    Grid1->SetRowLabelValue(1, _("1"));
-    Grid1->SetRowLabelValue(2, _("2"));
-    Grid1->SetRowLabelValue(3, _("3"));
-    Grid1->SetRowLabelValue(4, _("4"));
-    Grid1->SetRowLabelValue(5, _("5"));
-    Grid1->SetRowLabelValue(6, _("6"));
-    Grid1->SetRowLabelValue(7, _("7"));
-    Grid1->SetRowLabelValue(8, _("8"));
-    Grid1->SetRowLabelValue(9, _("9"));
-    Grid1->SetRowLabelValue(10, _("10"));
-    Grid1->SetRowLabelValue(11, _("11"));
-    Grid1->SetRowLabelValue(12, _("12"));
-    Grid1->SetRowLabelValue(13, _("13"));
-    Grid1->SetRowLabelValue(14, _("14"));
-    Grid1->SetRowLabelValue(15, _("15"));
-    Grid1->SetDefaultCellFont( Grid1->GetFont() );
-    Grid1->SetDefaultCellTextColour( Grid1->GetForegroundColour() );
-    FlexGridSizer49->Add(Grid1, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    FlexGridSizer52 = new wxFlexGridSizer(5, 1, 0, 0);
-    FlexGridSizer52->Add(20,244,1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    Button7 = new wxButton(Panel4, ID_BUTTON7, _("Clear outputs"), wxDefaultPosition, wxDefaultSize, 0, wxDefaultValidator, _T("ID_BUTTON7"));
-    Button7->SetFocus();
-    FlexGridSizer52->Add(Button7, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    FlexGridSizer49->Add(FlexGridSizer52, 1, wxALL|wxEXPAND, 5);
-    Panel4->SetSizer(FlexGridSizer49);
-    FlexGridSizer49->Fit(Panel4);
-    FlexGridSizer49->SetSizeHints(Panel4);
-    Panel5 = new wxPanel(Notebook1, ID_PANEL5, wxDefaultPosition, wxDefaultSize, wxTAB_TRAVERSAL, _T("ID_PANEL5"));
-    FlexGridSizer50 = new wxFlexGridSizer(0, 3, 0, 0);
-    Grid2 = new wxGrid(Panel5, ID_GRID2, wxDefaultPosition, wxSize(260,363), 0, _T("ID_GRID2"));
-    Grid2->CreateGrid(7,10);
-    Grid2->EnableEditing(true);
-    Grid2->EnableGridLines(true);
-    Grid2->SetColLabelValue(0, _("0"));
-    Grid2->SetColLabelValue(1, _("1"));
-    Grid2->SetColLabelValue(2, _("2"));
-    Grid2->SetColLabelValue(3, _("3"));
-    Grid2->SetColLabelValue(4, _("4"));
-    Grid2->SetColLabelValue(5, _("5"));
-    Grid2->SetColLabelValue(6, _("6"));
-    Grid2->SetColLabelValue(7, _("7"));
-    Grid2->SetColLabelValue(8, _("8"));
-    Grid2->SetColLabelValue(9, _("9"));
-    Grid2->SetRowLabelValue(0, _("0"));
-    Grid2->SetRowLabelValue(1, _("10"));
-    Grid2->SetRowLabelValue(2, _("20"));
-    Grid2->SetRowLabelValue(3, _("30"));
-    Grid2->SetRowLabelValue(4, _("40"));
-    Grid2->SetRowLabelValue(5, _("50"));
-    Grid2->SetRowLabelValue(6, _("60"));
-    Grid2->SetDefaultCellFont( Grid2->GetFont() );
-    Grid2->SetDefaultCellTextColour( Grid2->GetForegroundColour() );
-    FlexGridSizer50->Add(Grid2, 1, wxALL|wxEXPAND, 5);
-    FlexGridSizer53 = new wxFlexGridSizer(5, 1, 0, 0);
-    FlexGridSizer53->Add(20,246,1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    Button11 = new wxButton(Panel5, ID_BUTTON11, _("Clear outputs"), wxDefaultPosition, wxDefaultSize, 0, wxDefaultValidator, _T("ID_BUTTON11"));
-    Button11->SetFocus();
-    FlexGridSizer53->Add(Button11, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    FlexGridSizer50->Add(FlexGridSizer53, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    Panel5->SetSizer(FlexGridSizer50);
-    FlexGridSizer50->Fit(Panel5);
-    FlexGridSizer50->SetSizeHints(Panel5);
-    Panel3 = new wxPanel(Notebook1, ID_PANEL3, wxDefaultPosition, wxDefaultSize, wxTAB_TRAVERSAL, _T("ID_PANEL3"));
-    FlexGridSizer6 = new wxFlexGridSizer(7, 1, 0, 0);
-    GridSizer1 = new wxGridSizer(1, 4, 0, 0);
-    FlexGridSizer28 = new wxFlexGridSizer(1, 2, 0, 0);
-    StaticText35 = new wxStaticText(Panel3, ID_STATICTEXT35, _(" 0:"), wxDefaultPosition, wxSize(20,-1), wxALIGN_RIGHT, _T("ID_STATICTEXT35"));
-    FlexGridSizer28->Add(StaticText35, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    TextCtrl30 = new wxTextCtrl(Panel3, ID_TEXTCTRL30, _("12345"), wxDefaultPosition, wxSize(55,21), wxTE_RIGHT, wxDefaultValidator, _T("ID_TEXTCTRL30"));
-    FlexGridSizer28->Add(TextCtrl30, 1, wxALL|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL, 5);
-    GridSizer1->Add(FlexGridSizer28, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 0);
-    FlexGridSizer29 = new wxFlexGridSizer(1, 2, 0, 0);
-    StaticText33 = new wxStaticText(Panel3, ID_STATICTEXT33, _(" 1:"), wxDefaultPosition, wxSize(20,-1), wxALIGN_RIGHT, _T("ID_STATICTEXT33"));
-    FlexGridSizer29->Add(StaticText33, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    TextCtrl26 = new wxTextCtrl(Panel3, ID_TEXTCTRL26, _("12345"), wxDefaultPosition, wxSize(55,21), wxTE_RIGHT, wxDefaultValidator, _T("ID_TEXTCTRL26"));
-    FlexGridSizer29->Add(TextCtrl26, 1, wxALL|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL, 5);
-    GridSizer1->Add(FlexGridSizer29, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 0);
-    FlexGridSizer30 = new wxFlexGridSizer(1, 2, 0, 0);
-    StaticText36 = new wxStaticText(Panel3, ID_STATICTEXT36, _(" 2:"), wxDefaultPosition, wxSize(20,-1), wxALIGN_RIGHT, _T("ID_STATICTEXT36"));
-    FlexGridSizer30->Add(StaticText36, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    TextCtrl27 = new wxTextCtrl(Panel3, ID_TEXTCTRL27, _("12345"), wxDefaultPosition, wxSize(55,21), wxTE_RIGHT, wxDefaultValidator, _T("ID_TEXTCTRL27"));
-    FlexGridSizer30->Add(TextCtrl27, 1, wxALL|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL, 5);
-    GridSizer1->Add(FlexGridSizer30, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 0);
-    FlexGridSizer31 = new wxFlexGridSizer(1, 2, 0, 0);
-    StaticText37 = new wxStaticText(Panel3, ID_STATICTEXT37, _(" 3:"), wxDefaultPosition, wxSize(20,-1), wxALIGN_RIGHT, _T("ID_STATICTEXT37"));
-    FlexGridSizer31->Add(StaticText37, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    TextCtrl28 = new wxTextCtrl(Panel3, ID_TEXTCTRL28, _("12345"), wxDefaultPosition, wxSize(55,21), wxTE_RIGHT, wxDefaultValidator, _T("ID_TEXTCTRL28"));
-    FlexGridSizer31->Add(TextCtrl28, 1, wxALL|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL, 5);
-    GridSizer1->Add(FlexGridSizer31, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 0);
-    FlexGridSizer6->Add(GridSizer1, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 0);
-    GridSizer2 = new wxGridSizer(1, 4, 0, 0);
-    FlexGridSizer32 = new wxFlexGridSizer(1, 2, 0, 0);
-    StaticText38 = new wxStaticText(Panel3, ID_STATICTEXT38, _(" 4:"), wxDefaultPosition, wxSize(20,-1), wxALIGN_RIGHT, _T("ID_STATICTEXT38"));
-    FlexGridSizer32->Add(StaticText38, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    TextCtrl29 = new wxTextCtrl(Panel3, ID_TEXTCTRL29, _("12345"), wxDefaultPosition, wxSize(55,21), wxTE_RIGHT, wxDefaultValidator, _T("ID_TEXTCTRL29"));
-    FlexGridSizer32->Add(TextCtrl29, 1, wxALL|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL, 5);
-    GridSizer2->Add(FlexGridSizer32, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 0);
-    FlexGridSizer33 = new wxFlexGridSizer(1, 2, 0, 0);
-    StaticText39 = new wxStaticText(Panel3, ID_STATICTEXT39, _(" 5:"), wxDefaultPosition, wxSize(20,-1), wxALIGN_RIGHT, _T("ID_STATICTEXT39"));
-    FlexGridSizer33->Add(StaticText39, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    TextCtrl31 = new wxTextCtrl(Panel3, ID_TEXTCTRL31, _("12345"), wxDefaultPosition, wxSize(55,21), wxTE_RIGHT, wxDefaultValidator, _T("ID_TEXTCTRL31"));
-    FlexGridSizer33->Add(TextCtrl31, 1, wxALL|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL, 5);
-    GridSizer2->Add(FlexGridSizer33, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 0);
-    FlexGridSizer34 = new wxFlexGridSizer(1, 2, 0, 0);
-    StaticText40 = new wxStaticText(Panel3, ID_STATICTEXT40, _(" 6:"), wxDefaultPosition, wxSize(20,-1), wxALIGN_RIGHT, _T("ID_STATICTEXT40"));
-    FlexGridSizer34->Add(StaticText40, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    TextCtrl32 = new wxTextCtrl(Panel3, ID_TEXTCTRL32, _("12345"), wxDefaultPosition, wxSize(55,21), wxTE_RIGHT, wxDefaultValidator, _T("ID_TEXTCTRL32"));
-    FlexGridSizer34->Add(TextCtrl32, 1, wxALL|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL, 5);
-    GridSizer2->Add(FlexGridSizer34, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 0);
-    FlexGridSizer35 = new wxFlexGridSizer(1, 2, 0, 0);
-    StaticText41 = new wxStaticText(Panel3, ID_STATICTEXT41, _(" 7:"), wxDefaultPosition, wxSize(20,-1), wxALIGN_RIGHT, _T("ID_STATICTEXT41"));
-    FlexGridSizer35->Add(StaticText41, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    TextCtrl33 = new wxTextCtrl(Panel3, ID_TEXTCTRL33, _("12345"), wxDefaultPosition, wxSize(55,21), wxTE_RIGHT, wxDefaultValidator, _T("ID_TEXTCTRL33"));
-    FlexGridSizer35->Add(TextCtrl33, 1, wxALL|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL, 5);
-    GridSizer2->Add(FlexGridSizer35, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 0);
-    FlexGridSizer6->Add(GridSizer2, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 0);
-    GridSizer3 = new wxGridSizer(1, 4, 0, 0);
-    FlexGridSizer36 = new wxFlexGridSizer(1, 2, 0, 0);
-    StaticText42 = new wxStaticText(Panel3, ID_STATICTEXT42, _(" 8:"), wxDefaultPosition, wxSize(20,-1), wxALIGN_RIGHT, _T("ID_STATICTEXT42"));
-    FlexGridSizer36->Add(StaticText42, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    TextCtrl34 = new wxTextCtrl(Panel3, ID_TEXTCTRL34, _("12345"), wxDefaultPosition, wxSize(55,21), wxTE_RIGHT, wxDefaultValidator, _T("ID_TEXTCTRL34"));
-    FlexGridSizer36->Add(TextCtrl34, 1, wxALL|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL, 5);
-    GridSizer3->Add(FlexGridSizer36, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 0);
-    FlexGridSizer37 = new wxFlexGridSizer(1, 2, 0, 0);
-    StaticText43 = new wxStaticText(Panel3, ID_STATICTEXT43, _("9:"), wxDefaultPosition, wxSize(20,-1), wxALIGN_RIGHT, _T("ID_STATICTEXT43"));
-    FlexGridSizer37->Add(StaticText43, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    TextCtrl35 = new wxTextCtrl(Panel3, ID_TEXTCTRL35, _("12345"), wxDefaultPosition, wxSize(55,21), wxTE_RIGHT, wxDefaultValidator, _T("ID_TEXTCTRL35"));
-    FlexGridSizer37->Add(TextCtrl35, 1, wxALL|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL, 5);
-    GridSizer3->Add(FlexGridSizer37, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 0);
-    FlexGridSizer38 = new wxFlexGridSizer(1, 2, 0, 0);
-    StaticText44 = new wxStaticText(Panel3, ID_STATICTEXT44, _("10:"), wxDefaultPosition, wxSize(20,-1), wxALIGN_RIGHT, _T("ID_STATICTEXT44"));
-    FlexGridSizer38->Add(StaticText44, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    TextCtrl36 = new wxTextCtrl(Panel3, ID_TEXTCTRL36, _("12345"), wxDefaultPosition, wxSize(55,21), wxTE_RIGHT, wxDefaultValidator, _T("ID_TEXTCTRL36"));
-    FlexGridSizer38->Add(TextCtrl36, 1, wxALL|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL, 5);
-    GridSizer3->Add(FlexGridSizer38, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 0);
-    FlexGridSizer39 = new wxFlexGridSizer(1, 2, 0, 0);
-    StaticText45 = new wxStaticText(Panel3, ID_STATICTEXT45, _("11:"), wxDefaultPosition, wxSize(20,-1), wxALIGN_RIGHT, _T("ID_STATICTEXT45"));
-    FlexGridSizer39->Add(StaticText45, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    TextCtrl37 = new wxTextCtrl(Panel3, ID_TEXTCTRL37, _("12345"), wxDefaultPosition, wxSize(55,21), wxTE_RIGHT, wxDefaultValidator, _T("ID_TEXTCTRL37"));
-    FlexGridSizer39->Add(TextCtrl37, 1, wxALL|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL, 5);
-    GridSizer3->Add(FlexGridSizer39, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 0);
-    FlexGridSizer6->Add(GridSizer3, 1, wxTOP|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 7);
-    GridSizer4 = new wxGridSizer(1, 4, 0, 0);
-    FlexGridSizer40 = new wxFlexGridSizer(1, 2, 0, 0);
-    StaticText46 = new wxStaticText(Panel3, ID_STATICTEXT46, _("12:"), wxDefaultPosition, wxSize(20,-1), wxALIGN_RIGHT, _T("ID_STATICTEXT46"));
-    FlexGridSizer40->Add(StaticText46, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    TextCtrl38 = new wxTextCtrl(Panel3, ID_TEXTCTRL38, _("12345"), wxDefaultPosition, wxSize(55,21), wxTE_RIGHT, wxDefaultValidator, _T("ID_TEXTCTRL38"));
-    FlexGridSizer40->Add(TextCtrl38, 1, wxALL|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL, 5);
-    GridSizer4->Add(FlexGridSizer40, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 0);
-    FlexGridSizer41 = new wxFlexGridSizer(1, 2, 0, 0);
-    StaticText47 = new wxStaticText(Panel3, ID_STATICTEXT47, _("13:"), wxDefaultPosition, wxSize(20,-1), wxALIGN_RIGHT, _T("ID_STATICTEXT47"));
-    FlexGridSizer41->Add(StaticText47, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    TextCtrl39 = new wxTextCtrl(Panel3, ID_TEXTCTRL39, _("12345"), wxDefaultPosition, wxSize(55,21), wxTE_RIGHT, wxDefaultValidator, _T("ID_TEXTCTRL39"));
-    FlexGridSizer41->Add(TextCtrl39, 1, wxALL|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL, 5);
-    GridSizer4->Add(FlexGridSizer41, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 0);
-    FlexGridSizer42 = new wxFlexGridSizer(1, 2, 0, 0);
-    StaticText48 = new wxStaticText(Panel3, ID_STATICTEXT48, _("14:"), wxDefaultPosition, wxSize(20,-1), wxALIGN_RIGHT, _T("ID_STATICTEXT48"));
-    FlexGridSizer42->Add(StaticText48, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    TextCtrl40 = new wxTextCtrl(Panel3, ID_TEXTCTRL40, _("12345"), wxDefaultPosition, wxSize(55,21), wxTE_RIGHT, wxDefaultValidator, _T("ID_TEXTCTRL40"));
-    FlexGridSizer42->Add(TextCtrl40, 1, wxALL|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL, 5);
-    GridSizer4->Add(FlexGridSizer42, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 0);
-    FlexGridSizer43 = new wxFlexGridSizer(1, 2, 0, 0);
-    StaticText49 = new wxStaticText(Panel3, ID_STATICTEXT49, _("15:"), wxDefaultPosition, wxSize(20,-1), wxALIGN_RIGHT, _T("ID_STATICTEXT49"));
-    FlexGridSizer43->Add(StaticText49, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    TextCtrl41 = new wxTextCtrl(Panel3, ID_TEXTCTRL41, _("12345"), wxDefaultPosition, wxSize(55,21), wxTE_RIGHT, wxDefaultValidator, _T("ID_TEXTCTRL41"));
-    FlexGridSizer43->Add(TextCtrl41, 1, wxALL|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL, 5);
-    GridSizer4->Add(FlexGridSizer43, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 0);
-    FlexGridSizer6->Add(GridSizer4, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 0);
-    FlexGridSizer44 = new wxFlexGridSizer(8, 1, 0, 0);
-    FlexGridSizer46 = new wxFlexGridSizer(1, 5, 0, 0);
-    Choice6 = new wxChoice(Panel3, ID_CHOICE6, wxDefaultPosition, wxSize(103,21), 0, 0, 0, wxDefaultValidator, _T("ID_CHOICE6"));
-    Choice6->Append(wxEmptyString);
-    Choice6->SetSelection( Choice6->Append(_("Dataref int")) );
-    Choice6->Append(_("Dataref float"));
-    Choice6->Append(_("Array int"));
-    Choice6->Append(_("Array float"));
-    FlexGridSizer46->Add(Choice6, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 5);
-    StaticText52 = new wxStaticText(Panel3, ID_STATICTEXT52, _("Dataref type"), wxDefaultPosition, wxDefaultSize, 0, _T("ID_STATICTEXT52"));
-    FlexGridSizer46->Add(StaticText52, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 2);
-    FlexGridSizer46->Add(45,9,1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 4);
-    Choice5 = new wxChoice(Panel3, ID_CHOICE5, wxDefaultPosition, wxSize(48,21), 0, 0, 0, wxDefaultValidator, _T("ID_CHOICE5"));
-    Choice5->SetSelection( Choice5->Append(_("0")) );
-    Choice5->Append(_("1"));
-    Choice5->Append(_("2"));
-    Choice5->Append(_("3"));
-    Choice5->Append(_("4"));
-    Choice5->Append(_("5"));
-    Choice5->Append(_("6"));
-    Choice5->Append(_("7"));
-    Choice5->Append(_("8"));
-    Choice5->Append(_("9"));
-    Choice5->Append(_("10"));
-    Choice5->Append(_("11"));
-    Choice5->Append(_("12"));
-    Choice5->Append(_("13"));
-    Choice5->Append(_("14"));
-    Choice5->Append(_("15"));
-    Choice5->SetFocus();
-    FlexGridSizer46->Add(Choice5, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    StaticText50 = new wxStaticText(Panel3, ID_STATICTEXT50, _("Axis"), wxDefaultPosition, wxDefaultSize, 0, _T("ID_STATICTEXT50"));
-    FlexGridSizer46->Add(StaticText50, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 3);
-    FlexGridSizer44->Add(FlexGridSizer46, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 0);
-    StaticText53 = new wxStaticText(Panel3, ID_STATICTEXT53, _("Dataref"), wxDefaultPosition, wxDefaultSize, 0, _T("ID_STATICTEXT53"));
-    FlexGridSizer44->Add(StaticText53, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 0);
-    TextCtrl42 = new wxTextCtrl(Panel3, ID_TEXTCTRL42, wxEmptyString, wxDefaultPosition, wxSize(359,21), 0, wxDefaultValidator, _T("ID_TEXTCTRL42"));
-    FlexGridSizer44->Add(TextCtrl42, 1, wxALL|wxEXPAND, 5);
-    FlexGridSizer47 = new wxFlexGridSizer(0, 5, 0, 0);
-    StaticText54 = new wxStaticText(Panel3, ID_STATICTEXT54, _("[section name]"), wxDefaultPosition, wxDefaultSize, wxALIGN_RIGHT, _T("ID_STATICTEXT54"));
-    FlexGridSizer47->Add(StaticText54, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 6);
-    TextCtrl43 = new wxTextCtrl(Panel3, ID_TEXTCTRL43, wxEmptyString, wxDefaultPosition, wxSize(129,21), 0, wxDefaultValidator, _T("ID_TEXTCTRL43"));
-    FlexGridSizer47->Add(TextCtrl43, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 4);
-    FlexGridSizer47->Add(41,7,1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    StaticText59 = new wxStaticText(Panel3, ID_STATICTEXT59, _("Index:"), wxDefaultPosition, wxDefaultSize, wxALIGN_RIGHT, _T("ID_STATICTEXT59"));
-    FlexGridSizer47->Add(StaticText59, 1, wxALL|wxALIGN_CENTER_VERTICAL, 1);
-    TextCtrl48 = new wxTextCtrl(Panel3, ID_TEXTCTRL48, wxEmptyString, wxDefaultPosition, wxSize(27,21), 0, wxDefaultValidator, _T("ID_TEXTCTRL48"));
-    TextCtrl48->Disable();
-    FlexGridSizer47->Add(TextCtrl48, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 5);
-    FlexGridSizer44->Add(FlexGridSizer47, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 0);
-    FlexGridSizer6->Add(FlexGridSizer44, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 0);
-    FlexGridSizer45 = new wxFlexGridSizer(1, 3, 0, 0);
-    FlexGridSizer45->Add(8,20,1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    GridSizer5 = new wxGridSizer(3, 4, 0, 0);
-    Button12 = new wxButton(Panel3, ID_BUTTON12, _("DeviceMax >"), wxDefaultPosition, wxDefaultSize, 0, wxDefaultValidator, _T("ID_BUTTON12"));
-    GridSizer5->Add(Button12, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 0);
-    TextCtrl44 = new wxTextCtrl(Panel3, ID_TEXTCTRL44, wxEmptyString, wxDefaultPosition, wxSize(50,21), 0, wxDefaultValidator, _T("ID_TEXTCTRL44"));
-    GridSizer5->Add(TextCtrl44, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 3);
-    StaticText65 = new wxStaticText(Panel3, ID_STATICTEXT65, _("SimMax:"), wxDefaultPosition, wxDefaultSize, wxALIGN_RIGHT, _T("ID_STATICTEXT65"));
-    GridSizer5->Add(StaticText65, 1, wxALL|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL, 1);
-    TextCtrl54 = new wxTextCtrl(Panel3, ID_TEXTCTRL54, wxEmptyString, wxDefaultPosition, wxSize(50,21), 0, wxDefaultValidator, _T("ID_TEXTCTRL54"));
-    GridSizer5->Add(TextCtrl54, 1, wxRIGHT|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 0);
-    Button13 = new wxButton(Panel3, ID_BUTTON13, _("DevCenter >"), wxDefaultPosition, wxDefaultSize, 0, wxDefaultValidator, _T("ID_BUTTON13"));
-    Button13->Disable();
-    GridSizer5->Add(Button13, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 0);
-    TextCtrl52 = new wxTextCtrl(Panel3, ID_TEXTCTRL52, wxEmptyString, wxDefaultPosition, wxSize(50,21), 0, wxDefaultValidator, _T("ID_TEXTCTRL52"));
-    TextCtrl52->Disable();
-    GridSizer5->Add(TextCtrl52, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 3);
-    StaticText66 = new wxStaticText(Panel3, ID_STATICTEXT66, _("SimMin:"), wxDefaultPosition, wxDefaultSize, wxALIGN_RIGHT, _T("ID_STATICTEXT66"));
-    GridSizer5->Add(StaticText66, 1, wxALL|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL, 1);
-    TextCtrl55 = new wxTextCtrl(Panel3, ID_TEXTCTRL55, wxEmptyString, wxDefaultPosition, wxSize(50,21), 0, wxDefaultValidator, _T("ID_TEXTCTRL55"));
-    GridSizer5->Add(TextCtrl55, 1, wxRIGHT|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 0);
-    Button14 = new wxButton(Panel3, ID_BUTTON14, _("DeviceMin >"), wxDefaultPosition, wxDefaultSize, 0, wxDefaultValidator, _T("ID_BUTTON14"));
-    GridSizer5->Add(Button14, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 0);
-    TextCtrl53 = new wxTextCtrl(Panel3, ID_TEXTCTRL53, wxEmptyString, wxDefaultPosition, wxSize(50,21), 0, wxDefaultValidator, _T("ID_TEXTCTRL53"));
-    GridSizer5->Add(TextCtrl53, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 3);
-    StaticText67 = new wxStaticText(Panel3, ID_STATICTEXT67, _("Has center:"), wxDefaultPosition, wxDefaultSize, wxALIGN_RIGHT, _T("ID_STATICTEXT67"));
-    GridSizer5->Add(StaticText67, 1, wxALL|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL, 1);
-    CheckBox3 = new wxCheckBox(Panel3, ID_CHECKBOX3, wxEmptyString, wxDefaultPosition, wxDefaultSize, 0, wxDefaultValidator, _T("ID_CHECKBOX3"));
-    CheckBox3->SetValue(false);
-    GridSizer5->Add(CheckBox3, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 5);
-    FlexGridSizer45->Add(GridSizer5, 1, wxALL|wxALIGN_LEFT|wxALIGN_TOP, 0);
-    FlexGridSizer6->Add(FlexGridSizer45, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 0);
-    Button10 = new wxButton(Panel3, ID_BUTTON10, _("Add axis section"), wxDefaultPosition, wxSize(148,32), 0, wxDefaultValidator, _T("ID_BUTTON10"));
-    Button10->Disable();
-    FlexGridSizer6->Add(Button10, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    Panel3->SetSizer(FlexGridSizer6);
-    FlexGridSizer6->Fit(Panel3);
-    FlexGridSizer6->SetSizeHints(Panel3);
+    Notebook1->AddPage(Panel3, _("Config elements"), false);
     Notebook1->AddPage(Panel1, _("DiscrCtrls"), false);
     Notebook1->AddPage(Panel6, _("NumCtrls"), false);
     Notebook1->AddPage(Panel2, _("Indication"), false);
-    Notebook1->AddPage(Panel4, _("AlphNum Indic"), false);
-    Notebook1->AddPage(Panel5, _("Discrete Indic"), false);
-    Notebook1->AddPage(Panel3, _("Axes"), false);
     FlexGridSizer3->Add(Notebook1, 1, wxALL|wxEXPAND, 5);
     FlexGridSizer2->Add(FlexGridSizer3, 1, wxALL|wxALIGN_TOP|wxALIGN_CENTER_HORIZONTAL, 0);
     StaticLine1 = new wxStaticLine(this, ID_STATICLINE1, wxDefaultPosition, wxDefaultSize, wxLI_VERTICAL, _T("ID_STATICLINE1"));
@@ -1595,29 +1396,36 @@ loggerDialog::loggerDialog(wxWindow* parent,wxWindowID id)
     StaticLine8 = new wxStaticLine(this, ID_STATICLINE8, wxDefaultPosition, wxSize(10,-1), wxLI_HORIZONTAL, _T("ID_STATICLINE8"));
     FlexGridSizer26->Add(StaticLine8, 1, wxALL|wxEXPAND, 0);
     StaticText55 = new wxStaticText(this, ID_STATICTEXT55, _("UDP server"), wxDefaultPosition, wxDefaultSize, 0, _T("ID_STATICTEXT55"));
+    StaticText55->Disable();
     wxFont StaticText55Font(10,wxFONTFAMILY_SWISS,wxFONTSTYLE_NORMAL,wxFONTWEIGHT_BOLD,false,wxEmptyString,wxFONTENCODING_DEFAULT);
     StaticText55->SetFont(StaticText55Font);
     FlexGridSizer26->Add(StaticText55, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 0);
     FlexGridSizer55 = new wxFlexGridSizer(0, 3, 0, 0);
     StaticText32 = new wxStaticText(this, ID_STATICTEXT32, _("UDP port"), wxDefaultPosition, wxDefaultSize, 0, _T("ID_STATICTEXT32"));
+    StaticText32->Disable();
     wxFont StaticText32Font(10,wxFONTFAMILY_SWISS,wxFONTSTYLE_NORMAL,wxFONTWEIGHT_NORMAL,false,_T("Arial"),wxFONTENCODING_DEFAULT);
     StaticText32->SetFont(StaticText32Font);
     FlexGridSizer55->Add(StaticText32, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
     TextCtrl47 = new wxTextCtrl(this, ID_TEXTCTRL47, _("50000"), wxDefaultPosition, wxSize(47,21), 0, wxDefaultValidator, _T("ID_TEXTCTRL47"));
+    TextCtrl47->Disable();
     FlexGridSizer55->Add(TextCtrl47, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
     FlexGridSizer26->Add(FlexGridSizer55, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 1);
     FlexGridSizer59 = new wxFlexGridSizer(0, 3, 0, 0);
     StaticText70 = new wxStaticText(this, ID_STATICTEXT70, _("ID filter"), wxDefaultPosition, wxSize(54,16), 0, _T("ID_STATICTEXT70"));
+    StaticText70->Disable();
     wxFont StaticText70Font(10,wxFONTFAMILY_SWISS,wxFONTSTYLE_NORMAL,wxFONTWEIGHT_NORMAL,false,_T("Arial"),wxFONTENCODING_DEFAULT);
     StaticText70->SetFont(StaticText70Font);
     FlexGridSizer59->Add(StaticText70, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
     TextCtrl63 = new wxTextCtrl(this, ID_TEXTCTRL63, _("0"), wxDefaultPosition, wxSize(47,21), 0, wxDefaultValidator, _T("ID_TEXTCTRL63"));
+    TextCtrl63->Disable();
     FlexGridSizer59->Add(TextCtrl63, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
     FlexGridSizer26->Add(FlexGridSizer59, 1, wxALL|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL, 0);
     FlexGridSizer58 = new wxFlexGridSizer(0, 3, 0, 0);
     Button22 = new wxButton(this, ID_BUTTON22, _("Start"), wxDefaultPosition, wxSize(52,23), 0, wxDefaultValidator, _T("ID_BUTTON22"));
+    Button22->Disable();
     FlexGridSizer58->Add(Button22, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
     Button23 = new wxButton(this, ID_BUTTON23, _("Stop"), wxDefaultPosition, wxSize(49,23), 0, wxDefaultValidator, _T("ID_BUTTON23"));
+    Button23->Disable();
     FlexGridSizer58->Add(Button23, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
     FlexGridSizer26->Add(FlexGridSizer58, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 0);
     StaticLine9 = new wxStaticLine(this, ID_STATICLINE9, wxDefaultPosition, wxSize(10,-1), wxLI_HORIZONTAL, _T("ID_STATICLINE9"));
@@ -1626,10 +1434,12 @@ loggerDialog::loggerDialog(wxWindow* parent,wxWindowID id)
     StaticLine10 = new wxStaticLine(this, ID_STATICLINE10, wxDefaultPosition, wxSize(10,-1), wxLI_HORIZONTAL, _T("ID_STATICLINE10"));
     FlexGridSizer26->Add(StaticLine10, 1, wxALL|wxEXPAND, 0);
     StaticText30 = new wxStaticText(this, ID_STATICTEXT30, _("Console"), wxDefaultPosition, wxDefaultSize, 0, _T("ID_STATICTEXT30"));
+    StaticText30->Disable();
     wxFont StaticText30Font(10,wxFONTFAMILY_SWISS,wxFONTSTYLE_NORMAL,wxFONTWEIGHT_BOLD,false,_T("Arial"),wxFONTENCODING_DEFAULT);
     StaticText30->SetFont(StaticText30Font);
     FlexGridSizer26->Add(StaticText30, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 0);
     Button9 = new wxButton(this, ID_BUTTON9, _("Console ON/OFF"), wxDefaultPosition, wxDefaultSize, 0, wxDefaultValidator, _T("ID_BUTTON9"));
+    Button9->Disable();
     FlexGridSizer26->Add(Button9, 1, wxALL|wxEXPAND, 5);
     CheckBox2 = new wxCheckBox(this, ID_CHECKBOX2, _("Inputs only"), wxDefaultPosition, wxDefaultSize, 0, wxDefaultValidator, _T("ID_CHECKBOX2"));
     CheckBox2->SetValue(false);
@@ -1651,6 +1461,17 @@ loggerDialog::loggerDialog(wxWindow* parent,wxWindowID id)
     FlexGridSizer1->Fit(this);
     FlexGridSizer1->SetSizeHints(this);
 
+    Connect(ID_BUTTON7,wxEVT_COMMAND_BUTTON_CLICKED,(wxObjectEventFunction)&loggerDialog::OnButton7Click1);
+    Connect(ID_BUTTON10,wxEVT_COMMAND_BUTTON_CLICKED,(wxObjectEventFunction)&loggerDialog::OnButton10Click3);
+    Connect(ID_BUTTON13,wxEVT_COMMAND_BUTTON_CLICKED,(wxObjectEventFunction)&loggerDialog::OnButton13Click1);
+    Connect(ID_BUTTON11,wxEVT_COMMAND_BUTTON_CLICKED,(wxObjectEventFunction)&loggerDialog::OnButton11Click);
+    Connect(ID_BUTTON12,wxEVT_COMMAND_BUTTON_CLICKED,(wxObjectEventFunction)&loggerDialog::OnButton12Click1);
+    Connect(ID_BUTTON36,wxEVT_COMMAND_BUTTON_CLICKED,(wxObjectEventFunction)&loggerDialog::OnButton36Click);
+    Connect(ID_BUTTON14,wxEVT_COMMAND_BUTTON_CLICKED,(wxObjectEventFunction)&loggerDialog::OnButton14Click1);
+    Connect(ID_BUTTON34,wxEVT_COMMAND_BUTTON_CLICKED,(wxObjectEventFunction)&loggerDialog::OnButton34Click);
+    Connect(ID_COMBOBOX5,wxEVT_COMMAND_COMBOBOX_SELECTED,(wxObjectEventFunction)&loggerDialog::OnComboBox4Selected);
+    Connect(ID_COMBOBOX6,wxEVT_COMMAND_COMBOBOX_SELECTED,(wxObjectEventFunction)&loggerDialog::OnComboBox3Selected);
+    Connect(ID_BUTTON35,wxEVT_COMMAND_BUTTON_CLICKED,(wxObjectEventFunction)&loggerDialog::OnButton35Click);
     Connect(ID_CHOICE2,wxEVT_COMMAND_CHOICE_SELECTED,(wxObjectEventFunction)&loggerDialog::OnChoice2Select);
     Connect(ID_BUTTON31,wxEVT_COMMAND_BUTTON_CLICKED,(wxObjectEventFunction)&loggerDialog::OnButton31Click);
     Connect(ID_CHOICE1,wxEVT_COMMAND_CHOICE_SELECTED,(wxObjectEventFunction)&loggerDialog::OnChoice1Select1);
@@ -1685,15 +1506,6 @@ loggerDialog::loggerDialog(wxWindow* parent,wxWindowID id)
     Connect(ID_COMBOBOX4,wxEVT_COMMAND_COMBOBOX_SELECTED,(wxObjectEventFunction)&loggerDialog::OnComboBox4Selected);
     Connect(ID_BUTTON33,wxEVT_COMMAND_BUTTON_CLICKED,(wxObjectEventFunction)&loggerDialog::OnButton33Click);
     Connect(ID_COMBOBOX3,wxEVT_COMMAND_COMBOBOX_SELECTED,(wxObjectEventFunction)&loggerDialog::OnComboBox3Selected);
-    Connect(ID_BUTTON7,wxEVT_COMMAND_BUTTON_CLICKED,(wxObjectEventFunction)&loggerDialog::OnButton7Click);
-    Connect(ID_BUTTON11,wxEVT_COMMAND_BUTTON_CLICKED,(wxObjectEventFunction)&loggerDialog::OnButton7Click);
-    Connect(ID_CHOICE6,wxEVT_COMMAND_CHOICE_SELECTED,(wxObjectEventFunction)&loggerDialog::OnChoice6Select);
-    Connect(ID_CHOICE5,wxEVT_COMMAND_CHOICE_SELECTED,(wxObjectEventFunction)&loggerDialog::OnChoice5Select);
-    Connect(ID_BUTTON12,wxEVT_COMMAND_BUTTON_CLICKED,(wxObjectEventFunction)&loggerDialog::OnButton12Click);
-    Connect(ID_BUTTON13,wxEVT_COMMAND_BUTTON_CLICKED,(wxObjectEventFunction)&loggerDialog::OnButton13Click);
-    Connect(ID_BUTTON14,wxEVT_COMMAND_BUTTON_CLICKED,(wxObjectEventFunction)&loggerDialog::OnButton14Click);
-    Connect(ID_CHECKBOX3,wxEVT_COMMAND_CHECKBOX_CLICKED,(wxObjectEventFunction)&loggerDialog::OnCheckBox3Click);
-    Connect(ID_BUTTON10,wxEVT_COMMAND_BUTTON_CLICKED,(wxObjectEventFunction)&loggerDialog::OnButton10Click2);
     Connect(ID_NOTEBOOK1,wxEVT_COMMAND_NOTEBOOK_PAGE_CHANGED,(wxObjectEventFunction)&loggerDialog::OnNotebook1PageChanged);
     Connect(ID_BUTTON4,wxEVT_COMMAND_BUTTON_CLICKED,(wxObjectEventFunction)&loggerDialog::OnButton4Click);
     Connect(ID_COMBOBOX1,wxEVT_COMMAND_COMBOBOX_SELECTED,(wxObjectEventFunction)&loggerDialog::OnComboBox1Selected);
@@ -1709,22 +1521,6 @@ loggerDialog::loggerDialog(wxWindow* parent,wxWindowID id)
     Connect(ID_TIMER2,wxEVT_TIMER,(wxObjectEventFunction)&loggerDialog::OnTimer2Trigger);
     //*)
 
-    axes[0] = TextCtrl30;
-    axes[1] = TextCtrl26;
-    axes[2] = TextCtrl27;
-    axes[3] = TextCtrl28;
-    axes[4] = TextCtrl29;
-    axes[5] = TextCtrl31;
-    axes[6] = TextCtrl32;
-    axes[7] = TextCtrl33;
-    axes[8] = TextCtrl34;
-    axes[9] = TextCtrl35;
-    axes[10] = TextCtrl36;
-    axes[11] = TextCtrl37;
-    axes[12] = TextCtrl38;
-    axes[13] = TextCtrl39;
-    axes[14] = TextCtrl40;
-    axes[15] = TextCtrl41;
 
     mask32[0] = CheckBox36;  mask32[8] = CheckBox28;   mask32[16] = CheckBox20;  mask32[24] = CheckBox12;
     mask32[1] = CheckBox35;  mask32[9] = CheckBox27;   mask32[17] = CheckBox19;  mask32[25] = CheckBox11;
@@ -1735,7 +1531,7 @@ loggerDialog::loggerDialog(wxWindow* parent,wxWindowID id)
     mask32[6] = CheckBox30;  mask32[14] = CheckBox22;  mask32[22] = CheckBox14;  mask32[30] = CheckBox6;
     mask32[7] = CheckBox29;  mask32[15] = CheckBox21;  mask32[23] = CheckBox13;  mask32[31] = CheckBox5;
 
-    SetTitle("FSIOHUB Config Helper 0.4.0");
+    SetTitle("FSIOHUB Config Helper 0.5.0");
     StaticText2->SetForegroundColour(clDarkYellow);
     connection_flag = 0;
     connection_timer = 0;
@@ -1750,16 +1546,12 @@ loggerDialog::loggerDialog(wxWindow* parent,wxWindowID id)
     Button8->Enable(false);
     Timer2.Stop();
     console_flag = 0;
-    Choice5->SetSelection(0);
 
-    Grid1->AutoSizeColumns(true);
-    Grid2->AutoSizeColumns(true);
+
 
     wxFont fnt;
     fnt.MakeBold();
-    axes[0]->SetForegroundColour(wxColor(255,255,255));
-    axes[0]->SetBackgroundColour(wxColor(0,0,0));
-    axes[0]->SetFont(fnt);
+
     Notebook1->Refresh();
     udp_server.SetCallback((void*)udp_call_back);
 }
@@ -2531,7 +2323,6 @@ void loggerDialog::OnTimer1Trigger(wxTimerEvent& event)
 
         res = serial_port.SerialWrite((unsigned char*)display_array, numeric_tape_len + 5);
 
-
         if(current_panel == 2 || current_panel == 4)
             ;
         else
@@ -3127,8 +2918,8 @@ len: %d\r\n\
         str.Printf("\
 [Ind %s]\r\n\
 mode: discrete_polling\r\n\
-array: %s\r\n\
-index: %d\r\n\
+offset: %s\r\n\
+size: %d\r\n\
 type: %s\r\n\
 pos: %d\r\n\
 ",
@@ -3226,215 +3017,12 @@ void loggerDialog::OnCheckBox2Click(wxCommandEvent& event)
 
 void loggerDialog::OnNotebook1PageChanged(wxNotebookEvent& event)
 {
-
     TextCtrl67->Disable();
     StaticText114->Disable();
     current_panel = Notebook1->GetSelection();
-
-    //  int sel = Choice6->GetSelection();
-    // switch(sel)
-    // {
-    // case 0:
-    //     break;
-    // case 1:
-    // case 2:
-    //     TextCtrl48->Enable(false);
-    //     break;
-    // case 3:
-    // case 4:
-    //     TextCtrl48->Enable(true);
-    //     break;
-    // }
-
 }
 
-void loggerDialog::OnChoice5Select(wxCommandEvent& event)
-{
-    wxColor fgcl,bgcl;
-    wxFont fnt0,fnt1;
-    fgcl = TextCtrl42->GetForegroundColour();
-    bgcl = TextCtrl42->GetBackgroundColour();
-    fnt0 == TextCtrl42->GetFont();
-    fnt1 = fnt0;
-    fnt1.MakeBold();
-    int sel = Choice5->GetSelection();
-    int i;
-    for(i=0; i<16; i++)
-    {
-        if(sel == i)
-        {
-            axes[i]->SetForegroundColour(wxColor(255,255,255));
-            axes[i]->SetBackgroundColour(wxColor(0,0,0));
-            axes[i]->SetFont(fnt1);
-        }
-        else
-        {
-            axes[i]->SetForegroundColour(fgcl);
-            axes[i]->SetBackgroundColour(bgcl);
-            axes[i]->SetFont(fnt0);
-        }
-        axes[i]->Refresh();
-    }
 
-
-}
-
-void loggerDialog::OnButton12Click(wxCommandEvent& event)
-{
-    int sel = Choice5->GetSelection();
-    TextCtrl44->SetValue(axes[sel]->GetValue());
-}
-
-void loggerDialog::OnButton13Click(wxCommandEvent& event)
-{
-    int sel = Choice5->GetSelection();
-    TextCtrl52->SetValue(axes[sel]->GetValue());
-}
-
-void loggerDialog::OnButton14Click(wxCommandEvent& event)
-{
-    int sel = Choice5->GetSelection();
-    TextCtrl53->SetValue(axes[sel]->GetValue());
-}
-
-void loggerDialog::OnCheckBox3Click(wxCommandEvent& event)
-{
-    TextCtrl52->Enable(CheckBox3->IsChecked());
-    Button13->Enable(CheckBox3->IsChecked());
-}
-
-void loggerDialog::OnChoice6Select(wxCommandEvent& event)
-{
-    int sel = Choice6->GetSelection();
-    switch(sel)
-    {
-    case 0:
-        break;
-    case 1:
-    case 2:
-        TextCtrl48->Enable(false);
-        break;
-    case 3:
-    case 4:
-        TextCtrl48->Enable(true);
-        break;
-    }
-}
-
-void loggerDialog::OnButton10Click2(wxCommandEvent& event)
-{
-    const char *data_type_name[5] = {"", "int", "float", "int", "float"};
-    wxString str;
-    long index, devmax, devcenter, devmin;
-    double simmax,simmin;
-    int data_type = Choice6->GetSelection();
-    int has_center = 1 && CheckBox3->IsChecked();
-    int axis_ndx = Choice5->GetSelection();
-    double factor = 1;
-    double offset = 0;
-    int index_present =  1 && TextCtrl48->GetValue().Len(),
-        devmax_present = 1 && TextCtrl44->GetValue().Len(),
-        devcenter_present = 1 && TextCtrl52->GetValue().Len(),
-        devmin_present = 1 && TextCtrl53->GetValue().Len(),
-        simmin_present = 1 && TextCtrl54->GetValue().Len(),
-        simmax_present = 1 && TextCtrl55->GetValue().Len();
-
-    if(!TextCtrl48->GetValue().ToLong(&index))
-        index = 0;
-
-    if(!TextCtrl44->GetValue().ToLong(&devmax))
-        devmax = 0;
-
-    if(!TextCtrl52->GetValue().ToLong(&devcenter))
-        devcenter = 0;
-
-    if(!TextCtrl53->GetValue().ToLong(&devmin))
-        devmin = 0;
-
-    if(!TextCtrl54->GetValue().ToDouble(&simmax))
-        simmax = 0;
-
-    if(!TextCtrl55->GetValue().ToDouble(&simmin))
-        simmin = 0;
-
-
-    if(CheckBox3->IsChecked())
-    {
-        factor = (simmax - simmin) / (devmax - devmin);
-        offset = 1.0 * devcenter;
-    }
-    else
-    {
-        factor = (simmax - simmin) / (1.0*(devmax - devmin));
-        offset = 1.0 * devmax - simmax/factor;
-    }
-
-
-    int rem_max_len = GetMaxLen(TextCtrl2);
-    wxString tmp;
-    if(rem_max_len)
-    {
-        AddHashLine(TextCtrl7, '#', rem_max_len+3);
-        int i;
-        for(i=0; i < TextCtrl2->GetNumberOfLines(); i++)
-        {
-            tmp = "# " + TextCtrl2->GetLineText(i) + "\r\n";
-            TextCtrl7->AppendText(tmp);
-        }
-        AddHashLine(TextCtrl7, '#', rem_max_len+3);
-
-    }
-
-    switch(data_type)
-    {
-    case 0:
-        break;
-    case 1:
-    case 2:
-        str.Printf("\
-[Axis %s]\r\n\
-mode: input\r\n\
-dataref: %s\r\n\
-type: %s\r\n\
-axis: %d\r\n\
-factor: %11.5f\r\n\
-offset: %6.0f\r\n\r\n\
-",
-                   TextCtrl43->GetValue().c_str().AsChar(),
-                   TextCtrl42->GetValue().c_str().AsChar(),
-                   data_type_name[data_type],
-                   axis_ndx,
-                   factor,
-                   offset
-                  );
-        break;
-
-    case 3:
-    case 4:
-        str.Printf("\
-[Axis %s]\r\n\
-mode: input\r\n\
-array: %s\r\n\
-index: %s\r\n\
-type: %s\r\n\
-axis: %d\r\n\
-factor: %11.5f\r\n\
-offset: %6.0f\r\n\r\n\
-",
-                   TextCtrl43->GetValue().c_str().AsChar(),
-                   TextCtrl42->GetValue().c_str().AsChar(),
-                   index,
-                   data_type_name[data_type],
-                   axis_ndx,
-                   factor,
-                   offset
-                  );
-
-        break;
-    }
-    TextCtrl7->AppendText(str);
-
-}
 
 
 
@@ -3838,4 +3426,118 @@ void loggerDialog::OnComboBox3Selected(wxCommandEvent& event)
 {
     memset(display_array,' ',sizeof(display_array));
     memset(led_array,'0',sizeof(led_array));
+}
+
+void loggerDialog::OnButton7Click1(wxCommandEvent& event)
+{
+
+        int rem_max_len = GetMaxLen(TextCtrl2);
+        if(!TextCtrl2->GetValue().Find((const char*)"Some comment (remove all to omit comments)"))
+            rem_max_len = 0;
+
+        wxString tmp;
+        if(rem_max_len)
+        {
+            AddHashLine(TextCtrl7, '#', rem_max_len+3);
+            int i;
+            for(i=0; i < TextCtrl2->GetNumberOfLines(); i++)
+            {
+                tmp = "# " + TextCtrl2->GetLineText(i) + "\r\n";
+                TextCtrl7->AppendText(tmp);
+            }
+            AddHashLine(TextCtrl7, '#', rem_max_len+3);
+
+        }
+
+}
+
+void loggerDialog::OnButton10Click3(wxCommandEvent& event)
+{
+        int  sel = RadioBox2->GetSelection();
+        const char *selections[] = {"on", "off"};
+        wxString str;
+        str.Printf("\r\n[mode]\r\nlog: %s\r\n",selections[sel]);
+        TextCtrl7->AppendText(str);
+}
+
+void loggerDialog::OnButton12Click1(wxCommandEvent& event)
+{
+        int  sel = RadioBox2->GetSelection();
+        const char *selections[] = {"on", "off"};
+        wxString str;
+        str.Printf("\r\n[debug]\r\nkeyinfo: %s\r\n",selections[sel]);
+        TextCtrl7->AppendText(str);
+}
+
+
+
+void loggerDialog::OnButton13Click1(wxCommandEvent& event)
+{
+        wxString str;
+        str.Printf("\r\n[serial]\r\n");
+        TextCtrl7->AppendText(str);
+}
+
+void loggerDialog::OnButton14Click1(wxCommandEvent& event)
+{
+        wxString str;
+        str.Printf("\r\n[device]\r\n");
+        TextCtrl7->AppendText(str);
+}
+
+void loggerDialog::OnButton34Click(wxCommandEvent& event)
+{
+    long port;
+    if(!TextCtrl28->GetValue().ToLong(&port))
+        port = 0;
+
+    wxString str;
+    str.Printf("port: %d\r\n",port);
+    TextCtrl7->AppendText(str);
+}
+
+void loggerDialog::OnButton11Click(wxCommandEvent& event)
+{
+    long port;
+    if(!TextCtrl26->GetValue().ToLong(&port))
+        port = 0;
+
+    wxString str;
+    str.Printf("port_%d: %s\r\n",port,ComboBox1->GetValue().c_str().AsChar());
+    TextCtrl7->AppendText(str);
+}
+
+void loggerDialog::OnButton35Click(wxCommandEvent& event)
+{
+    long discr_size;
+    if(!ComboBox6->GetValue().ToLong(&discr_size))
+        discr_size = 64;
+    long num_size;
+    if(!ComboBox5->GetValue().ToLong(&num_size))
+        num_size = 128;
+
+    wxString str;
+    str.Printf("discrete_outs_max: %d\r\n",discr_size);
+    TextCtrl7->AppendText(str);
+    str.Printf("numeric_outs_max: %d\r\n",num_size);
+    TextCtrl7->AppendText(str);
+
+}
+
+void loggerDialog::OnButton36Click(wxCommandEvent& event)
+{
+    long port;
+    if(!TextCtrl29->GetValue().ToLong(&port))
+        port = 0;
+    long key;
+    if(!TextCtrl30->GetValue().ToLong(&key))
+        key = 0;
+
+    wxString str;
+    str.Printf("\r\n[operation]\r\n");
+    TextCtrl7->AppendText(str);
+    str.Printf("port: %d\r\n",port);
+    TextCtrl7->AppendText(str);
+    str.Printf("reload_key: %d\r\n",key);
+    TextCtrl7->AppendText(str);
 }
